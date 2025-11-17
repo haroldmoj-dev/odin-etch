@@ -1,1 +1,3 @@
-# odin-etch
+# Etch-A-Sketch
+
+This project was created while following a course from The Odin Project. It demonstrates the use of HTML, CSS, and JavaScript. It features a sketchpad-like tool that allows the user to draw by dragging the mouse pointer across a square grid. The user can also adjust the grid size by entering a number between 1 and 100 (inclusive), which sets the number of squares per side of the grid.
